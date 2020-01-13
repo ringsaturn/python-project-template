@@ -1,0 +1,15 @@
+venv/
+*.pyc
+__pycache__
+.idea/
+.git
+*.pkl
+*.png
+*.npz
+*.npy
+outputs/
+# poetry.lock
+*.ipynb
+.ipynb_checkpoints/
+.vscode/
+log/
